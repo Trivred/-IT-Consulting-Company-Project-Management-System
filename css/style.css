@@ -1,0 +1,36 @@
+
+.back-green {
+  background-color: green;
+}
+.back-yellow {
+  background-color: yellow;
+}
+.back-red {
+  background-color: red;
+}
+.back-blue {
+  background-color: blue;
+  color: white;
+}
+
+#p {
+  color: white !important;
+  text-align: center;
+  padding: 5px;
+}
+
+.color-red {
+  color: red;
+}
+.color-white {
+  color: white;
+}
+.color-black {
+  color: black !important;
+}
+.color-blue {
+  color: blue;
+}
+.huge {
+  font-size: 40px;
+}
